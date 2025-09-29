@@ -1,0 +1,2 @@
+Arquitetura do optimized_resnet:
+None

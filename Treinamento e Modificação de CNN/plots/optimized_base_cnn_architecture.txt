@@ -1,0 +1,2 @@
+Arquitetura do optimized_base_cnn:
+None
